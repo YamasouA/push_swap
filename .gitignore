@@ -1,0 +1,10 @@
+*.pdf
+checker_Mac
+checker
+*.swp
+*.o
+*.a
+push_swap
+push_swaptester/
+test.sh
+.devcontainer
